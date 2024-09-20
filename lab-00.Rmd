@@ -25,7 +25,7 @@ team_data <- tibble(
              "Blue", "Yellow"),
   hobby = c("Dancing", "Piano", "Karate", 
             "Football", "Reading"),
-  favourite_number = c(2, 3, 8, 7, 104)
+  favourite_number = c(2, 3, 8, 7, 9)
   )
 
 team_data
